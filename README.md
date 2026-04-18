@@ -1,51 +1,43 @@
-# 👋 ¡Hola! Soy Marcelo González
+👋 ¡Hola! Soy Marcelo González
+💻 Arquitecto de Soluciones Digitales | Desarrollador Fullstack | Consultor de Procesos
+Transformo el caos operativo en sistemas lógicos, escalables y rentables. Con más de 20 años de experiencia liderando unidades de negocio y gestión empresarial, hoy fusiono esa visión estratégica con el desarrollo de software de última generación. Mi valor diferencial no es solo escribir código, sino entender la realidad económica detrás de cada función.
 
-### 💻 Arquitecto de Soluciones Digitales | Desarrollador Web | Consultor Tecnológico  
+🚀 Proyectos Estratégicos
+🚗 Control Driver Tu copiloto financiero. Aplicación móvil diseñada para conductores de plataformas (Uber, Didi, Cabify) que transforma registros caóticos en claridad financiera absoluta.
 
-Transformo ideas y necesidades reales en **soluciones web funcionales, simples y escalables**.  
-Con más de 20 años de experiencia en gestión, soporte técnico y desarrollo, hoy aplico **metodologías modernas e inteligencia artificial** para optimizar procesos y crear herramientas útiles para empresas y emprendedores.
+Stack: React Native | IA Aplicada | Gestión de Datos.
 
----
+🗓️ SaaS "La Abuela Beba" Sistema integral de gestión de turnos y notificaciones para servicios de alta demanda. Implementación de lógica modular y seguridad de datos.
 
-### 🧰 Tecnologías y herramientas
-- **Lenguajes:** PHP | JavaScript | HTML5 | CSS3  
-- **Base de datos:** MySQL  
-- **Frameworks / UI:** Bootstrap  
-- **Control de versiones:** Git & GitHub  
-- **Otros:** IA aplicada | Automatización de procesos | UX funcional  
+Stack: Go | React | PostgreSQL.
 
----
+💈 ERP de Gestión Profesional (Legacy & Evolution) Un sistema nacido de 20 años de experiencia en el sector, que cubre desde el flujo de caja hasta la fidelización de clientes.
 
-### 🚀 Proyectos destacados
-- 💈 **Sistema de Gestión Integral para Peluquería**  
-  Sistema completo de administración, turnos y clientes.  
-  Stack: PHP, MySQL, Bootstrap, JavaScript.  
-  Rol: Arquitectura, diseño y desarrollo.  
+Stack: PHP | MySQL | JavaScript | Bootstrap.
 
-- 🧠 **La Nube Computación**  
-  [marcegon13.github.io/La-Nube-Computacion/](https://marcegon13.github.io/La-Nube-Computacion/)  
-  Portal de servicios tecnológicos con diseño moderno y responsive.  
+🧰 Mi Stack Tecnológico
+Lenguajes: Go (Golang) | Rust | JavaScript (ES6+) | PHP | SQL.
 
-- 🚗 **P@rking Solution**  
-  Proyecto en desarrollo para gestión de estacionamientos urbanos.  
-  Foco en automatización y control centralizado.  
+Frontend & Mobile: React Native | React.js | Tailwind CSS | Bootstrap.
 
-- 🌍 **Hello World Travel**  
-  [marcegon13.github.io/Hello-World-Travel/](https://marcegon13.github.io/Hello-World-Travel/)  
-  Sitio web responsive orientado al sector turismo.  
+Arquitectura: Microservicios | Diseño Modular | PostgreSQL | MySQL.
 
----
+Innovación: Integración de Agentes de IA | Model Context Protocol (MCP) | Automatización de flujos de trabajo con herramientas como Antigravity y Cursor.
 
-### 🎯 Mi enfoque
-Combino la visión del negocio con el desarrollo técnico para ofrecer **soluciones tecnológicas prácticas, confiables y accesibles**.  
-Me apasiona seguir aprendiendo, integrar IA en el desarrollo web y colaborar en proyectos donde la tecnología **resuelva problemas reales**.
+🎯 Mi Enfoque: Tecnología con Sentido Humano
+No creo en la tecnología por la tecnología misma. Creo en herramientas que simplifican la vida del trabajador y potencian al emprendedor. Mi enfoque combina la rigidez de un backend sólido con la flexibilidad que exige la economía real.
 
----
+Analista de Negocios: Capacidad para auditar procesos y proponer mejoras técnicas inmediatas.
 
-📫 **Contacto**  
-- ✉️ marcegon13@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/marcelo-gonzalez-95aa091a)  
-- 🌐 [GitHub](https://github.com/marcegon13)
+Aprendizaje Continuo: Desde los disquetes de arranque hasta la IA, mi curiosidad es mi motor principal.
 
----
-> *“La tecnología es poderosa cuando simplifica la vida de las personas.”*  
+📫 Contacto y Colaboración
+Estoy listo para aportar soluciones de alto impacto en equipos que busquen experiencia, lealtad y una visión pragmática del desarrollo.
+
+💼 Mi Perfil en LinkedIn: linkedin.com/in/marcelo-gonzalez-95aa091a
+
+✉️ marcegon13@gmail.com
+
+🌐 La Nube Computación: https://www.lanubecomputacion.com
+
+"La verdadera potencia del software reside en su capacidad para dar tranquilidad a quien lo usa."
