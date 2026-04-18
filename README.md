@@ -34,7 +34,7 @@ Aprendizaje Continuo: Desde los disquetes de arranque hasta la IA, mi curiosidad
 📫 Contacto y Colaboración
 Estoy listo para aportar soluciones de alto impacto en equipos que busquen experiencia, lealtad y una visión pragmática del desarrollo.
 
-💼 Mi Perfil en LinkedIn: linkedin.com/in/marcelo-gonzalez-95aa091a
+💼 Mi Perfil en LinkedIn: https://linkedin.com/in/marcelo-gonzalez-95aa091a
 
 ✉️ marcegon13@gmail.com
 
