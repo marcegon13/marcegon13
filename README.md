@@ -1,5 +1,5 @@
 👋 ¡Hola! Soy Marcelo González
-💻 Arquitecto de Soluciones Digitales | Desarrollador Fullstack | Consultor de Procesos
+💻 Estratega de Soluciones Digitales y Consultor de Procesos | Desarrollador Fullstack 
 Transformo el caos operativo en sistemas lógicos, escalables y rentables. Con más de 20 años de experiencia liderando unidades de negocio y gestión empresarial, hoy fusiono esa visión estratégica con el desarrollo de software de última generación. Mi valor diferencial no es solo escribir código, sino entender la realidad económica detrás de cada función.
 
 🚀 Proyectos Estratégicos
