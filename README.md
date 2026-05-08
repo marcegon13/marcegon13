@@ -3,7 +3,7 @@
 Transformo el caos operativo en sistemas lógicos, escalables y rentables. Con más de 20 años de experiencia liderando unidades de negocio y gestión empresarial, hoy fusiono esa visión estratégica con el desarrollo de software de última generación. Mi valor diferencial no es solo escribir código, sino entender la realidad económica detrás de cada función.
 
 🚀 Proyectos Estratégicos
-🚗 Control Driver Tu copiloto financiero. Aplicación móvil diseñada para conductores de plataformas (Uber, Didi, Cabify) que transforma registros caóticos en claridad financiera absoluta.
+🚗 Control Driver Tu copiloto financiero. Aplicación móvil diseñada para conductores de plataformas (Uber, Didi, Cabify) que transforma registros caóticos en claridad financiera absoluta. ( En desarrollo )
 
 Stack: React Native | IA Aplicada | Gestión de Datos.
 
