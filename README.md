@@ -1,43 +1,47 @@
-👋 ¡Hola! Soy Marcelo González
-💻 Estratega de Soluciones Digitales y Consultor de Procesos | Desarrollador Fullstack 
-Transformo el caos operativo en sistemas lógicos, escalables y rentables. Con más de 20 años de experiencia liderando unidades de negocio y gestión empresarial, hoy fusiono esa visión estratégica con el desarrollo de software de última generación. Mi valor diferencial no es solo escribir código, sino entender la realidad económica detrás de cada función.
+## 🚀 Proyectos Estratégicos & Soluciones Reales
 
-🚀 Proyectos Estratégicos
-🚗 Control Driver Tu copiloto financiero. Aplicación móvil diseñada para conductores de plataformas (Uber, Didi, Cabify) que transforma registros caóticos en claridad financiera absoluta. ( En desarrollo )
+### 🗓️ SaaS "La Abuela Beba" (En Producción)
+Plataforma SaaS integral diseñada y desplegada de punta a punta para la gestión de hospitalidad, reservas concurrentes y control de miembros en el sector turístico.
+* **Stack:** Go (Golang) | React.js | PostgreSQL | Servidores Linux | Nginx | SSL.
+* **Enfoque:** Alta performance, consistencia transaccional y automatización de flujos de trabajo en la nube.
+* **Producción Activa:** [laabuelabeba.cloud](https://laabuelabeba.cloud)
 
-Stack: React Native | IA Aplicada | Gestión de Datos.
+### 🌾 AgroVision (En fase final de desarrollo)
+Proof of Concept (PoC) avanzada de analítica visual y visión artificial aplicada al sector agropecuario para la automatización de procesos de auditoría y conteo de ganado.
+* **Stack:** Python | IA Aplicada | Pipelines de Procesamiento de Video | Dashboards Web & Mobile.
+* **Enfoque:** Optimización lógica de algoritmos locales. Mediante la calibración de umbrales de contraste y definición nativa, se logró acelerar el procesamiento de frames un 40% en entorno local sin perder precisión en la detección.
 
-🗓️ SaaS "La Abuela Beba" Sistema integral de gestión de turnos y notificaciones para servicios de alta demanda. Implementación de lógica modular y seguridad de datos.
+### 💈 Ecosistema de Gestión Comercial (Legacy & Evolution)
+Modernización y reingeniería de un sistema nacido de dos décadas de experiencia en la administración de salones profesionales, que cubre desde el flujo de caja hasta el fichero técnico de clientes.
+* **Stack en evolución:** .NET / ASP.NET | Go | PostgreSQL | Integración Móvil.
+* **Enfoque:** Transformación digital completa, migrando de arquitecturas web tradicionales (PHP/MySQL) hacia una solución de escritorio híbrida y modular de alto rendimiento.
 
-Stack: Go | React | PostgreSQL.
+### 🚗 Control Driver App (En Prototipado Local)
+Copiloto financiero mobile-first. Aplicación móvil diseñada para conductores de plataformas logísticas que transforma registros caóticos en claridad financiera absoluta en tiempo real.
+* **Stack:** React Native | IA Agéntica | Servicios de Accesibilidad Android.
+* **Enfoque:** Optimización del procesamiento de datos on-device y diseño basado en una profunda investigación de Experiencia de Usuario (UX) de campo.
+* 🧰 Stack Técnico & Herramientas de IA-Native
 
-💈 ERP de Gestión Profesional (Legacy & Evolution) Un sistema nacido de 20 años de experiencia en el sector, que cubre desde el flujo de caja hasta la fidelización de clientes.
+* **Metodologías & Gestión:** Analista Funcional, Relevamiento de Requerimientos, Dirección General de Negocios, Metodologías Ágiles (Scrum/Kanban).
+* **IA Agéntica (Desarrollo Acelerado):** Especialista en orquestación de flujos agénticos, Model Context Protocol (MCP) y automatización de entornos de desarrollo (Antigravity, Cursor, Gemini, Claude).
+* **Backend & Arquitectura:** Go (Golang) | .NET (C#) | Node.js | PHP | PostgreSQL | MySQL | Arquitectura Modular | APIs RESTful.
+* **Frontend & Mobile:** React Native | React.js | JavaScript (ES6+) | TypeScript | Tailwind CSS | Bootstrap.
 
-Stack: PHP | MySQL | JavaScript | Bootstrap.
+---
 
-🧰 Mi Stack Tecnológico
-Lenguajes: Go (Golang) | Rust | JavaScript (ES6+) | PHP | SQL.
+## 🎯 Mi Enfoque: Tecnología con Sentido de Negocio
 
-Frontend & Mobile: React Native | React.js | Tailwind CSS | Bootstrap.
+No creo en la tecnología por la tecnología misma. Creo en herramientas que simplifican la vida del trabajador, cuidan el flujo de caja y potencian al emprendedor. Mi enfoque combina la rigidez de un backend sólido y seguro con la flexibilidad que exige la economía real de una PyME.
 
-Arquitectura: Microservicios | Diseño Modular | PostgreSQL | MySQL.
+* **Analista de Negocios:** Capacidad innata para auditar procesos operativos, detectar fugas en la caja y proponer mejoras técnicas inmediatas.
+* **Evolución Tecnológica:** Mi trayectoria me permite entender los sistemas desde sus fundamentos lógicos. Mi curiosidad y adaptabilidad son mi motor principal para domar las herramientas del mañana.
 
-Innovación: Integración de Agentes de IA | Model Context Protocol (MCP) | Automatización de flujos de trabajo con herramientas como Antigravity y Cursor.
+---
 
-🎯 Mi Enfoque: Tecnología con Sentido Humano
-No creo en la tecnología por la tecnología misma. Creo en herramientas que simplifican la vida del trabajador y potencian al emprendedor. Mi enfoque combina la rigidez de un backend sólido con la flexibilidad que exige la economía real.
+## 📫 Contacto y Colaboración
 
-Analista de Negocios: Capacidad para auditar procesos y proponer mejoras técnicas inmediatas.
+Estoy listo para aportar soluciones de alto impacto y tracción lógica en equipos ágiles, startups o microempresas que busquen experiencia, lealtad y una visión pragmática del desarrollo de software.
 
-Aprendizaje Continuo: Desde los disquetes de arranque hasta la IA, mi curiosidad es mi motor principal.
-
-📫 Contacto y Colaboración
-Estoy listo para aportar soluciones de alto impacto en equipos que busquen experiencia, lealtad y una visión pragmática del desarrollo.
-
-💼 Mi Perfil en LinkedIn: https://linkedin.com/in/marcelo-gonzalez-95aa091a
-
-✉️ marcegon13@gmail.com
-
-🌐 La Nube Computación: https://www.lanubecomputacion.com
-
-"La verdadera potencia del software reside en su capacidad para dar tranquilidad a quien lo usa."
+💼 **Mi Perfil en LinkedIn:** [linkedin.com/in/marcelo-gonzalez](https://linkedin.com/in/marcelo-gonzalez-95aa091a)  
+✉️ **Email:** marcegon13@gmail.com  
+🌐 **Consultora:** [La Nube Computación](https://www.lanubecomputacion.com)
