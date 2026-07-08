@@ -1,6 +1,6 @@
 ¡Hola! Soy Marcelo González 💻
 
-Tech Lead | Analista Técnico Funcional | Consultor de Procesos de Negocio e Inteligencia Artificial Agéntica
+Analista Técnico Funcional | Consultor de Procesos de Negocio e Inteligencia Artificial Agéntica
 
 Transformo el caos operativo en sistemas lógicos, escalables y rentables. Con más de 20 años de trayectoria liderando unidades de negocio y gestión empresarial, hoy fusiono esa visión estratégica con el desarrollo de software de última generación, especializándome en **arquitecturas IA-Native y la orquestación de flujos agénticos avanzados**.
 
