@@ -52,4 +52,4 @@ Estoy listo para aportar soluciones de alto impacto y tracción lógica en equip
 
 💼 **Mi Perfil en LinkedIn:** [linkedin.com/in/marcelo-gonzalez](https://linkedin.com/in/marcelo-gonzalez-95aa091a)  
 ✉️ **Email:** marcegon13@gmail.com  
-🌐 **Consultora:** [La Nube Computación](https://www.lanubecomputacion.com)
+
